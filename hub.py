@@ -4,4 +4,3 @@ def print_magico(msg,tempo=0.03):
         print(letra,end='',flush=True)
         time.sleep(tempo)
 
-print_magico('ola mundo')
